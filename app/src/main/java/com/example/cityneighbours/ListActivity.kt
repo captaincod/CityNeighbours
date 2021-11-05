@@ -1,5 +1,6 @@
 package com.example.cityneighbours
 
+import android.location.Location
 import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
@@ -12,7 +13,7 @@ class ListActivity : AppCompatActivity()  {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_list)
         val selected = intent.getStringExtra("selected")
-        val L = intent.getIntExtra("L",0)
+        val L = intent.getIntExtra("L",10000)
         val output = findViewById<TextView>(R.id.output)
 
         val cities_stream = resources.openRawResource(R.raw.cities)
@@ -29,7 +30,8 @@ class ListActivity : AppCompatActivity()  {
         }
 
         for (i in cities_arr){
-            
+            var results : Array<Float>
+            Location.distanceBetween(i.coord.lat, i.coord.lon, beginning_city.coord.lat, beginning_city.coord.lon, results)
         }
 
 
