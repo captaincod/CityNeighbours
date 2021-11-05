@@ -1,0 +1,524 @@
+{ "cities" :
+  [
+    {
+      "id": 3841232,
+      "name": "Piedra del Águila",
+      "state": "",
+      "country": "AR",
+      "coord": {
+        "lon": -70.074097,
+        "lat": -40.048111
+      }
+    },
+    {
+      "id": 3841298,
+      "name": "Departamento de Picún Leufú",
+      "state": "",
+      "country": "AR",
+      "coord": {
+        "lon": -69.5,
+        "lat": -39.5
+      }
+    },
+    {
+      "id": 2523237,
+      "name": "San Vito Sullo Ionio",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 16.4097,
+        "lat": 38.711781
+      }
+    },
+    {
+      "id": 2523238,
+      "name": "San Vito Lo Capo",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 12.73493,
+        "lat": 38.172352
+      }
+    },
+    {
+      "id": 2523241,
+      "name": "San Vito",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 9.53667,
+        "lat": 39.444721
+      }
+    },
+    {
+      "id": 2523242,
+      "name": "San Vincenzo la Costa",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 16.15169,
+        "lat": 39.365189
+      }
+    },
+    {
+      "id": 2523246,
+      "name": "Gibilmanna",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 14.01667,
+        "lat": 37.98333
+      }
+    },
+    {
+      "id": 2523247,
+      "name": "Santo Stefano Quisquina",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 13.49125,
+        "lat": 37.625542
+      }
+    },
+    {
+      "id": 2523248,
+      "name": "Santo Stefano in Aspromonte",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 15.7892,
+        "lat": 38.16917
+      }
+    },
+    {
+      "id": 2523249,
+      "name": "Santo Stefano di Rogliano",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 16.318199,
+        "lat": 39.19249
+      }
+    },
+    {
+      "id": 2523250,
+      "name": "Santo Stefano di Camastra",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 14.34857,
+        "lat": 38.014561
+      }
+    },
+    {
+      "id": 2523255,
+      "name": "San Sperate",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 9.00222,
+        "lat": 39.35833
+      }
+    },
+    {
+      "id": 2523258,
+      "name": "Sant'Onofrio",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 16.1441,
+        "lat": 38.694981
+      }
+    },
+    {
+      "id": 2523262,
+      "name": "Sant'Ilario dello Ionio",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 16.195601,
+        "lat": 38.218769
+      }
+    },
+    {
+      "id": 2523266,
+      "name": "Sant'Eufemia d'Aspromonte",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 15.8548,
+        "lat": 38.26347
+      }
+    },
+    {
+      "id": 2523271,
+      "name": "San Teodoro",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 14.69828,
+        "lat": 37.84866
+      }
+    },
+    {
+      "id": 2523280,
+      "name": "Santa Venerina",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 15.13829,
+        "lat": 37.687359
+      }
+    },
+    {
+      "id": 2523281,
+      "name": "Sant'Avendrace",
+      "state": "",
+      "country": "IT",
+      "coord": {
+        "lon": 9.09694,
+        "lat": 39.23056
+      }
+    },
+    {
+      "id": 2522430,
+      "name": "Adra",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -3.02055,
+        "lat": 36.749611
+      }
+    },
+    {
+      "id": 2522432,
+      "name": "Ador",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -0.22247,
+        "lat": 38.918228
+      }
+    },
+    {
+      "id": 2522437,
+      "name": "Adeje",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -16.726,
+        "lat": 28.122709
+      }
+    },
+    {
+      "id": 2522438,
+      "name": "Adamuz",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -4.52231,
+        "lat": 38.026741
+      }
+    },
+    {
+      "id": 2522446,
+      "name": "Aceuchal",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -6.48636,
+        "lat": 38.646271
+      }
+    },
+    {
+      "id": 2522451,
+      "name": "Acequias",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -3.53974,
+        "lat": 36.967861
+      }
+    },
+    {
+      "id": 2522460,
+      "name": "Acedera",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -5.57384,
+        "lat": 39.076778
+      }
+    },
+    {
+      "id": 2522461,
+      "name": "Aceca",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -3.85,
+        "lat": 39.950001
+      }
+    },
+    {
+      "id": 2522474,
+      "name": "Alcalá del Río",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -5.98185,
+        "lat": 37.517799
+      }
+    },
+    {
+      "id": 2522476,
+      "name": "Abrucena",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -2.79711,
+        "lat": 37.132259
+      }
+    },
+    {
+      "id": 2522477,
+      "name": "Abriojal",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -2.46775,
+        "lat": 36.953979
+      }
+    },
+    {
+      "id": 2522483,
+      "name": "Abla",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -2.77808,
+        "lat": 37.142448
+      }
+    },
+    {
+      "id": 2522486,
+      "name": "Abertura",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -5.81394,
+        "lat": 39.243519
+      }
+    },
+    {
+      "id": 3841413,
+      "name": "Piamonte",
+      "state": "",
+      "country": "AR",
+      "coord": {
+        "lon": -61.98217,
+        "lat": -32.143009
+      }
+    },
+    {
+      "id": 3841426,
+      "name": "Peyrano",
+      "state": "",
+      "country": "AR",
+      "coord": {
+        "lon": -60.801491,
+        "lat": -33.537331
+      }
+    },
+    {
+      "id": 3841475,
+      "name": "Perito Moreno",
+      "state": "",
+      "country": "AR",
+      "coord": {
+        "lon": -70.929749,
+        "lat": -46.589939
+      }
+    },
+    {
+      "id": 3841476,
+      "name": "Perito Moreno",
+      "state": "",
+      "country": "AR",
+      "coord": {
+        "lon": -71.409401,
+        "lat": -41.11618
+      }
+    },
+    {
+      "id": 6696635,
+      "name": "Southchurch Village",
+      "state": "",
+      "country": "GB",
+      "coord": {
+        "lon": 0.72935,
+        "lat": 51.540489
+      }
+    },
+    {
+      "id": 6696686,
+      "name": "Pyt-Yakh",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 72.858238,
+        "lat": 60.749851
+      }
+    },
+    {
+      "id": 6696767,
+      "name": "Langepas",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 75.212402,
+        "lat": 61.254391
+      }
+    },
+    {
+      "id": 6696772,
+      "name": "Darras Hall",
+      "state": "",
+      "country": "GB",
+      "coord": {
+        "lon": -1.76425,
+        "lat": 55.035599
+      }
+    },
+    {
+      "id": 6696791,
+      "name": "Lovedale",
+      "state": "",
+      "country": "AU",
+      "coord": {
+        "lon": 151.364822,
+        "lat": -32.770531
+      }
+    },
+    {
+      "id": 6696813,
+      "name": "White River",
+      "state": "",
+      "country": "CA",
+      "coord": {
+        "lon": -85.272011,
+        "lat": 48.592239
+      }
+    },
+    {
+      "id": 6696897,
+      "name": "Playa Honda",
+      "state": "",
+      "country": "ES",
+      "coord": {
+        "lon": -13.59936,
+        "lat": 28.94627
+      }
+    },
+    {
+      "id": 6696918,
+      "name": "Taoyuan City",
+      "state": "",
+      "country": "TW",
+      "coord": {
+        "lon": 121.296959,
+        "lat": 24.993679
+      }
+    },
+    {
+      "id": 6696921,
+      "name": "Severomorsk-3",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 33.726311,
+        "lat": 68.878616
+      }
+    },
+    {
+      "id": 558209,
+      "name": "Gubakha",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 57.553249,
+        "lat": 58.838619
+      }
+    },
+    {
+      "id": 558236,
+      "name": "Gryazovets",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 40.252499,
+        "lat": 58.880001
+      }
+    },
+    {
+      "id": 558285,
+      "name": "Gryaznovka",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 41.483334,
+        "lat": 53.716667
+      }
+    },
+    {
+      "id": 558312,
+      "name": "Gryazi",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 39.935928,
+        "lat": 52.496571
+      }
+    },
+    {
+      "id": 558367,
+      "name": "Gruzdevskiy",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 42.683334,
+        "lat": 56.200001
+      }
+    },
+    {
+      "id": 558384,
+      "name": "Grushevskaya",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 39.951111,
+        "lat": 47.440556
+      }
+    },
+    {
+      "id": 558385,
+      "name": "Martan-Chu",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 45.562168,
+        "lat": 43.06366
+      }
+    },
+    {
+      "id": 558418,
+      "name": "Groznyy",
+      "state": "",
+      "country": "RU",
+      "coord": {
+        "lon": 45.700279,
+        "lat": 43.308331
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Соседние города</string>
+    <string name="choose">Выберите город</string>
+    <string name="distance">Предельное расстояние от города</string>
+    <string name="next">Посчитать</string>
+    <string-array name="cities">
+        <item>Piedra del Águila</item>
+        <item>San Vito Lo Capo</item>
+        <item>Peyrano</item>
+        <item>Darras Hall</item>
+        <item>Gryazovets</item>
+    </string-array>
+</resources>
